@@ -1,3 +1,11 @@
+## Desc
+
+This is my first try on Svelte JS with SvelteKit.
+
+If you clone the app, you will be able to use only when you register yourself to moviedb, and then you have to make your own API key. The API key is used in routes/index.svelte, routes/movie/[id].svelte, routes/search/[id].svelte.
+
+This project was made as a tutorial, and I was watching a youtube video about it. Thanks for that Dev Ed!
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
