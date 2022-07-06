@@ -1,4 +1,4 @@
-## Desc
+## Description
 
 This is my first try on Svelte JS with SvelteKit.
 
